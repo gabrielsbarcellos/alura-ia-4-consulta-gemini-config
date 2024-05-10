@@ -1,0 +1,1 @@
+# alura-ia-4-consulta-gemini-config
